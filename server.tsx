@@ -7,7 +7,7 @@
 
 // SSG = BUILD time 'next build" -> run ONE time at build
 // SSR = run time -> run for every request
-``
+
 import React from "https://esm.sh/react";
 // web streams API
 import { renderToReadableStream } from "https://esm.sh/react-dom/server";
